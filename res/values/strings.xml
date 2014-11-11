@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CiScanner</string>
+    <string name="action_settings">Settings</string>
+    <string name="stock_symbol">Enter MAC:</string>
+    <string name="enter_stock_symbol">Enter</string>
+    <string name="stock_symbol_list">Saved MAC Addresses</string>
+    <string name="delete_all_symbols">Delete All MACs</string>
+    <string name="change_stock_symbol">Change</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="missing_stock_symbol">Enter a valid MAC Address!</string>
+    <string name="get_stock_quote">View Source</string>
+    <string name="go_to_website">Web</string>
+    <string name="invalid_stock_symbol">Error</string>
+    <string name="stock_info">STB Info</string>
+    <string name="open_barcode_reader">Open Barcode Reader</string>
+    <string name="change_text">Change Text</string>
+    <string name="svtunreal_site">http://svtunreal/tmp/info.php?mac=</string>
+    <string name="testName">Sample Name</string>
+    <string name="testModel">Sample Model</string>
+    <string name="testLastReboot">Sample Reboot</string>
+    <string name="testReboots">Sample Reboots 2</string>
+    <string name="testVersion">Sample Version</string>
+    <string name="idValue">ID</string>
+    <string name="time">Time</string>
+    <string name="testHeadline">Headline</string>
+    <string name="deed">Info</string>
+    <string name="Ok">Ok</string>
+    <string name="Up">Up</string>
+    <string name="Down">down</string>
+    <string name="down">Down</string>
+    <string name="volUp">Volume Up</string>
+    <string name="volDown">Volume Down</string>
+    <string name="voldown">Vol -</string>
+    <string name="volup">Vol +</string>
+    <string name="menu">Menu</string>
+    <string name="guide">Guide</string>
+    <string name="exit">Exit</string>
+    <string name="chup">Ch. Up</string>
+    <string name="chdown">Ch. Down</string>
+    <string name="power">Power</string>
+    <string name="refresh_page">Refresh the page</string>
+
+</resources>
